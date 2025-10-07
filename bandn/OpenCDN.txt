@@ -1,0 +1,9 @@
+!小红书视频下载
+@@||sns-video-qc.xhscdn.com^
+
+!其它网站
+@@||xhcdn.com^
+@@||doppiocdn.com^
+
+!微信更新下载
+@@||cdntips.net^
