@@ -44,7 +44,6 @@
 @@||graph.whatsapp.com^
 @@||salesloft.com^
 @@||xhcdn.com^
-@@||linktr.ee^
 ||official.ru^
 ||mradx.net^
 ||jisuts.com^
@@ -63,7 +62,6 @@
 ||qnqcdn.net^
 ||cdn-cookieyes.com^
 ||i1.hdslb.com^
-||linktr.ee^$important
 ||api.msn.com^
 ||txt58.com^
 ||privacy.qq.com^
