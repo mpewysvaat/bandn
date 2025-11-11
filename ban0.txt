@@ -69,7 +69,6 @@
 @@||geevisit.com^
 ||miwifi.com^
 ||adtidy.org^
-||cloudfront.net^
 ||cookielaw.org^
 ||shopee.**^
 ||doppiocdn.live^
