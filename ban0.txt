@@ -699,7 +699,6 @@
 /.*p2p.*(douyin|bytedance|amemv).*\.(com|cn)$/
 
 !  ------  小红书  ------
-@@||xiaohongshu.com^
 @@||sns-img-hw.xhscdn.com^$image
 @@||sns-video-hw.xhscdn.com^$image
 @@||img*.xhsdn.com^$image
@@ -732,18 +731,6 @@
 ||wximg.wxs.qq.com^
 
 ! ------  微博广告与追踪  ------
-@@||weibo.com^
-@@||sina.com.cn^
-@@||img*.sinaimg.cn^$image,video
-@@||img*.weibo.cn^$image,video
-@@||img*.weibocdn.com^$image,video
-@@||v.weibocdn.com^$video
-@@||f.video.weibocdn.com^$video
-@@||api.weibo.com^
-@@||m.weibo.cn^
-@@||t.cn^
-@@||f.video.weibocdn.com^
-@@||ww4.sinaimg.cn^
 ||ad.sina.com.cn^
 ||sax.sina.com.cn^
 ||saxn.sina.com.cn^
@@ -806,14 +793,8 @@
 /.*log.*(baidu|bdstatic)\.(com|cn)$/
 
 ! ------  腾讯   ------
-@@||weixin.qq.com^
 @@||mp.weixin.qq.com^
-@@||img*.qq.com^$image,video
-@@||img*.gtimg.com^$image,video
-@@||res.wx.qq.com^
 @@||pay.weixin.qq.com^
-@@||v.qq.com^$video
-@@||game.qq.com^
 ||ad.qq.com^
 ||ads.tencent.com^
 ||gdt.qq.com^
