@@ -74,6 +74,14 @@
 @@||music.163.com^
 @@||music.126.net^
 @@||geevisit.com^
+@@||qzone.qq.com^
+@@||qzs.qq.com^
+@@||ptlogin2.qq.com^
+@@||accounts.qq.com^
+@@||ptlogin2.*.qq.com^
+@@||store.qq.com^
+||*xhgty*.com^
+/^ab\d+\..*$/
 ||rsqsfj.cn^
 ||vigyixt.com^
 ||*4ex15cwvk.*^
