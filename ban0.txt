@@ -101,6 +101,11 @@
 @@||api.account.xiaomi.com^
 ||www.baidu.com^
 ||mftg*.vip^
+||cdnht*.cc^
+||admingengxing.cc^
+||*zhijia.cc^
+||lfya.cc^
+||upload.xchina.io^
 ||qrlm*.com^
 ||rosfky.cn^
 ||3pk5xi.com^
