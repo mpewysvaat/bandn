@@ -1069,7 +1069,6 @@
 ||sandai.net^
 
 !  ------  优酷  ------
-||youku.com^
 /.*pcdn.*youku\.com$/
 
 !  ------  斗鱼  ------
