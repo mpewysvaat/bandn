@@ -101,6 +101,14 @@
 @@||api.account.xiaomi.com^
 @@||img.xchina.download^
 @@||xchina.download^
+@@||cdn.ampproject.org^
+@@||reading.snssdk.com^
+@@||v11-reading-video.qznovelvod.com^
+||tripo3d.ai^
+||optimizationguide-pa.googleapis.com^
+||vercel-storage.com^
+||proxy-cheap.com^
+||clove.jp^
 ||cdnht*.*^
 ||admingengxing.*^
 ||*zhijia.*^
